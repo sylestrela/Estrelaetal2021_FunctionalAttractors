@@ -1,0 +1,17 @@
+"Family","Oxygen","Carbon_Source","Proportion"
+"Enterobacteriaceae","Aerobic","Glucose",1
+"Pseudomonadaceae","Aerobic","Glucose",0.972972973
+"Enterobacteriaceae","Aerobic","Acetate",1
+"Pseudomonadaceae","Aerobic","Acetate",1
+"Enterobacteriaceae","Aerobic","Lactate",1
+"Pseudomonadaceae","Aerobic","Lactate",0.959459459
+"Enterobacteriaceae","Aerobic","Succinate",0.983050847
+"Pseudomonadaceae","Aerobic","Succinate",0.972972973
+"Enterobacteriaceae","Anaerobic","Glucose",1
+"Pseudomonadaceae","Anaerobic","Glucose",0.013513514
+"Enterobacteriaceae","Anaerobic","Acetate",0
+"Pseudomonadaceae","Anaerobic","Acetate",0
+"Enterobacteriaceae","Anaerobic","Lactate",0
+"Pseudomonadaceae","Anaerobic","Lactate",0
+"Enterobacteriaceae","Anaerobic","Succinate",0
+"Pseudomonadaceae","Anaerobic","Succinate",0

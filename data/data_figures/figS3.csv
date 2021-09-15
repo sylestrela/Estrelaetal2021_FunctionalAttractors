@@ -1,0 +1,8 @@
+"metabolite","Strain","Timepoint","mean_mM","std_mM"
+"Acetate","E. coli",28,4.6948,0.4949747
+"Acetate","Enterobacter",28,5.9598,0.1626346
+"Lactate","E. coli",28,2.19,1.1879394
+"Lactate","Enterobacter",28,2.385,0.1202082
+"Pyruvate","E. coli",28,0.373,0.0183848
+"Succinate","E. coli",28,0.307,0.0579828
+"Succinate","Enterobacter",28,0.2575,0.0106066

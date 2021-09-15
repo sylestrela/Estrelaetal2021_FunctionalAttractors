@@ -1,0 +1,753 @@
+"time_hours","variable","Genus","SangerID","value"
+0,"pH","Enterobacter",327,6.985988638
+0,"pH","Enterobacter",332,6.87777165
+0,"pH","Enterobacter",338,6.972338269
+0,"pH","Raoultella",340,7.004944103
+0,"pH","Raoultella",461,7.004944103
+0,"pH","Enterobacter",280,6.857808019
+0,"pH","Enterobacter",344,7.000763368
+0,"pH","Raoultella",345,7.002884355
+0,"pH","Escherichia/Shigella",346,6.824319251
+0,"pH","Raoultella",348,6.755733617
+0,"pH","Serratia",458,6.933952033
+0,"pH","Enterobacter",460,7.004944103
+0,"pH","Raoultella",356,7.000763368
+0,"pH","Raoultella",358,6.985988638
+0,"pH","Klebsiella",360,6.856513528
+0,"pH","Citrobacter",259,6.741614033
+0,"pH","Serratia",364,6.972338269
+0,"pH","Enterobacter",269,6.953037794
+0,"pH","Citrobacter",270,6.874690642
+0,"pH","Citrobacter",435,6.985988638
+0,"pH","Enterobacter",273,6.915059278
+0,"pH","Serratia",438,7.004944103
+0,"pH","Citrobacter",439,7.002884355
+0,"pH","Enterobacter",283,6.933952033
+0,"pH","Serratia",284,6.943469461
+0,"pH","Citrobacter",286,6.943469461
+0,"pH","Raoultella",287,6.89168356
+0,"pH","Enterobacter",440,6.991876505
+0,"pH","Enterobacter",442,6.991876505
+0,"pH","Enterobacter",160,6.991876505
+0,"pH","Raoultella",165,6.656782624
+0,"pH","Citrobacter",169,7.006945251
+0,"pH","Enterobacter",276,6.985988638
+0,"pH","Raoultella",277,6.841021978
+0,"pH","Citrobacter",278,6.953037794
+0,"pH","Raoultella",288,6.915059278
+0,"pH","Citrobacter",289,6.991876505
+0,"pH","Klebsiella",295,7.006945251
+0,"pH","Enterobacter",303,6.964590871
+0,"pH","Klebsiella",305,6.985988638
+0,"pH","Enterobacter",308,6.915059278
+0,"pH","Klebsiella",310,6.933952033
+0,"pH","Klebsiella",311,6.824319251
+0,"pH","Klebsiella",317,6.991876505
+0,"pH","Enterobacter",320,6.985988638
+0,"pH","Klebsiella",322,6.953037794
+0,"pH","Klebsiella",448,7.004944103
+16,"pH","Enterobacter",327,6.112306215
+16,"pH","Enterobacter",332,5.43228445
+16,"pH","Enterobacter",338,6.021600937
+16,"pH","Raoultella",340,5.818615102
+16,"pH","Raoultella",461,5.782564725
+16,"pH","Enterobacter",280,5.982650465
+16,"pH","Enterobacter",344,5.231674825
+16,"pH","Raoultella",345,5.836401587
+16,"pH","Escherichia/Shigella",346,5.05669664
+16,"pH","Raoultella",348,5.343925702
+16,"pH","Serratia",458,5.952181248
+16,"pH","Enterobacter",460,5.312392737
+16,"pH","Raoultella",356,5.765533415
+16,"pH","Raoultella",358,5.782564725
+16,"pH","Klebsiella",360,6.147215015
+16,"pH","Citrobacter",259,4.542101085
+16,"pH","Serratia",364,5.91469752
+16,"pH","Enterobacter",269,5.854470173
+16,"pH","Citrobacter",270,4.867230929
+16,"pH","Citrobacter",435,4.983268484
+16,"pH","Enterobacter",273,5.770577991
+16,"pH","Serratia",438,5.818615102
+16,"pH","Citrobacter",439,4.558795489
+16,"pH","Enterobacter",283,5.09054523
+16,"pH","Serratia",284,5.895514698
+16,"pH","Citrobacter",286,4.558795489
+16,"pH","Raoultella",287,5.818615102
+16,"pH","Enterobacter",440,5.872204748
+16,"pH","Enterobacter",442,5.28348553
+16,"pH","Enterobacter",160,4.906420826
+16,"pH","Raoultella",165,5.357652347
+16,"pH","Citrobacter",169,4.803877013
+16,"pH","Enterobacter",276,4.954870624
+16,"pH","Raoultella",277,4.893136579
+16,"pH","Citrobacter",278,4.706966936
+16,"pH","Raoultella",288,5.306853687
+16,"pH","Citrobacter",289,4.893136579
+16,"pH","Klebsiella",295,5.630140712
+16,"pH","Enterobacter",303,5.669198556
+16,"pH","Klebsiella",305,5.694855903
+16,"pH","Enterobacter",308,5.992143976
+16,"pH","Klebsiella",310,5.853642438
+16,"pH","Klebsiella",311,5.870375375
+16,"pH","Klebsiella",317,5.86866691
+16,"pH","Enterobacter",320,6.073358068
+16,"pH","Klebsiella",322,5.84115609
+16,"pH","Klebsiella",448,5.835797571
+28,"pH","Enterobacter",327,6.461916151
+28,"pH","Enterobacter",332,5.800884866
+28,"pH","Enterobacter",338,6.342775402
+28,"pH","Raoultella",340,6.224969492
+28,"pH","Raoultella",461,6.226731732
+28,"pH","Enterobacter",280,6.337729291
+28,"pH","Enterobacter",344,5.631428185
+28,"pH","Raoultella",345,6.285809737
+28,"pH","Escherichia/Shigella",346,5.218803804
+28,"pH","Raoultella",348,5.782564725
+28,"pH","Serratia",458,6.119423938
+28,"pH","Enterobacter",460,5.616201058
+28,"pH","Raoultella",356,6.226731732
+28,"pH","Raoultella",358,6.281129459
+28,"pH","Klebsiella",360,6.448305977
+28,"pH","Citrobacter",259,4.692081776
+28,"pH","Serratia",364,6.299053631
+28,"pH","Enterobacter",269,5.966499379
+28,"pH","Citrobacter",270,4.677390168
+28,"pH","Citrobacter",435,4.627326655
+28,"pH","Enterobacter",273,5.837049623
+28,"pH","Serratia",438,6.200498901
+28,"pH","Citrobacter",439,4.790191863
+28,"pH","Enterobacter",283,5.147107317
+28,"pH","Serratia",284,6.27687424
+28,"pH","Citrobacter",286,4.396847042
+28,"pH","Raoultella",287,6.252164236
+28,"pH","Enterobacter",440,6.066353964
+28,"pH","Enterobacter",442,5.322428129
+28,"pH","Enterobacter",160,5.006857664
+28,"pH","Raoultella",165,5.690342855
+28,"pH","Citrobacter",169,4.592678668
+28,"pH","Enterobacter",276,4.976675107
+28,"pH","Raoultella",277,5.285247846
+28,"pH","Citrobacter",278,4.662880112
+28,"pH","Raoultella",288,5.966499379
+28,"pH","Citrobacter",289,4.706966936
+28,"pH","Klebsiella",295,6.085576543
+28,"pH","Enterobacter",303,5.743960552
+28,"pH","Klebsiella",305,5.72356402
+28,"pH","Enterobacter",308,6.304880723
+28,"pH","Klebsiella",310,6.31858073
+28,"pH","Klebsiella",311,6.325004159
+28,"pH","Klebsiella",317,6.371606157
+28,"pH","Enterobacter",320,6.408293596
+28,"pH","Klebsiella",322,6.249311934
+28,"pH","Klebsiella",448,6.239542929
+48,"pH","Enterobacter",327,6.534303066
+48,"pH","Enterobacter",332,5.997321065
+48,"pH","Enterobacter",338,6.39718356
+48,"pH","Raoultella",340,6.371606157
+48,"pH","Raoultella",461,6.394949193
+48,"pH","Enterobacter",280,6.39917919
+48,"pH","Enterobacter",344,6.066353964
+48,"pH","Raoultella",345,6.421494952
+48,"pH","Escherichia/Shigella",346,5.474110347
+48,"pH","Raoultella",348,6.099068805
+48,"pH","Serratia",458,6.272373447
+48,"pH","Enterobacter",460,6.04824015
+48,"pH","Raoultella",356,6.381453
+48,"pH","Raoultella",358,6.408293596
+48,"pH","Klebsiella",360,6.285809737
+48,"pH","Citrobacter",259,5.020497941
+48,"pH","Serratia",364,6.434561555
+48,"pH","Enterobacter",269,6.187055134
+48,"pH","Citrobacter",270,5.043876133
+48,"pH","Citrobacter",435,5.101825647
+48,"pH","Enterobacter",273,6.021600937
+48,"pH","Serratia",438,6.434561555
+48,"pH","Citrobacter",439,4.933713412
+48,"pH","Enterobacter",283,5.298650269
+48,"pH","Serratia",284,6.408293596
+48,"pH","Citrobacter",286,4.776709061
+48,"pH","Raoultella",287,6.394949193
+48,"pH","Enterobacter",440,6.212527516
+48,"pH","Enterobacter",442,5.519731768
+48,"pH","Enterobacter",160,5.29671527
+48,"pH","Raoultella",165,6.125301907
+48,"pH","Citrobacter",169,5.149155588
+48,"pH","Enterobacter",276,5.151622875
+48,"pH","Raoultella",277,5.836401587
+48,"pH","Citrobacter",278,5.051537788
+48,"pH","Raoultella",288,6.160728101
+48,"pH","Citrobacter",289,4.817776053
+48,"pH","Klebsiella",295,6.367795779
+48,"pH","Enterobacter",303,5.854898895
+48,"pH","Klebsiella",305,5.854898895
+48,"pH","Enterobacter",308,6.367795779
+48,"pH","Klebsiella",310,6.411084432
+48,"pH","Klebsiella",311,6.434561555
+48,"pH","Klebsiella",317,6.498136483
+48,"pH","Enterobacter",320,6.434561555
+48,"pH","Klebsiella",322,6.434561555
+48,"pH","Klebsiella",448,6.475400625
+0,"acetate (mM)","Enterobacter",327,0
+0,"acetate (mM)","Enterobacter",332,0
+0,"acetate (mM)","Enterobacter",338,0
+0,"acetate (mM)","Raoultella",340,0
+0,"acetate (mM)","Raoultella",461,0
+0,"acetate (mM)","Enterobacter",280,0
+0,"acetate (mM)","Enterobacter",344,0
+0,"acetate (mM)","Raoultella",345,0
+0,"acetate (mM)","Escherichia/Shigella",346,0
+0,"acetate (mM)","Raoultella",348,0
+0,"acetate (mM)","Serratia",458,0
+0,"acetate (mM)","Enterobacter",460,0
+0,"acetate (mM)","Raoultella",356,0
+0,"acetate (mM)","Raoultella",358,0
+0,"acetate (mM)","Klebsiella",360,0
+0,"acetate (mM)","Citrobacter",259,0
+0,"acetate (mM)","Serratia",364,0
+0,"acetate (mM)","Enterobacter",269,0
+0,"acetate (mM)","Citrobacter",270,0
+0,"acetate (mM)","Citrobacter",435,0
+0,"acetate (mM)","Enterobacter",273,0
+0,"acetate (mM)","Serratia",438,0
+0,"acetate (mM)","Citrobacter",439,0
+0,"acetate (mM)","Enterobacter",283,0
+0,"acetate (mM)","Serratia",284,0
+0,"acetate (mM)","Citrobacter",286,0
+0,"acetate (mM)","Raoultella",287,0
+0,"acetate (mM)","Enterobacter",440,0
+0,"acetate (mM)","Enterobacter",442,0
+0,"acetate (mM)","Enterobacter",160,0
+0,"acetate (mM)","Raoultella",165,0
+0,"acetate (mM)","Citrobacter",169,0
+0,"acetate (mM)","Enterobacter",276,0
+0,"acetate (mM)","Raoultella",277,0
+0,"acetate (mM)","Citrobacter",278,0
+0,"acetate (mM)","Raoultella",288,0
+0,"acetate (mM)","Citrobacter",289,0
+0,"acetate (mM)","Klebsiella",295,0
+0,"acetate (mM)","Enterobacter",303,0
+0,"acetate (mM)","Klebsiella",305,0
+0,"acetate (mM)","Enterobacter",308,0
+0,"acetate (mM)","Klebsiella",310,0
+0,"acetate (mM)","Klebsiella",311,0
+0,"acetate (mM)","Klebsiella",317,0
+0,"acetate (mM)","Enterobacter",320,0
+0,"acetate (mM)","Klebsiella",322,0
+0,"acetate (mM)","Klebsiella",448,0
+16,"acetate (mM)","Enterobacter",327,6.454912866
+16,"acetate (mM)","Enterobacter",332,9.463471257
+16,"acetate (mM)","Enterobacter",338,6.198669676
+16,"acetate (mM)","Raoultella",340,7.379386753
+16,"acetate (mM)","Raoultella",461,7.363538201
+16,"acetate (mM)","Enterobacter",280,7.617115023
+16,"acetate (mM)","Enterobacter",344,8.988014716
+16,"acetate (mM)","Raoultella",345,7.434856682
+16,"acetate (mM)","Escherichia/Shigella",346,7.601266472
+16,"acetate (mM)","Raoultella",348,9.812139387
+16,"acetate (mM)","Serratia",458,7.149582758
+16,"acetate (mM)","Enterobacter",460,8.758210721
+16,"acetate (mM)","Raoultella",356,7.181279861
+16,"acetate (mM)","Raoultella",358,8.212946313
+16,"acetate (mM)","Klebsiella",360,6.878098933
+16,"acetate (mM)","Citrobacter",259,10.49379785
+16,"acetate (mM)","Serratia",364,6.647544556
+16,"acetate (mM)","Enterobacter",269,8.072406572
+16,"acetate (mM)","Citrobacter",270,9.890635397
+16,"acetate (mM)","Citrobacter",435,9.934342827
+16,"acetate (mM)","Enterobacter",273,9.567200465
+16,"acetate (mM)","Serratia",438,8.448290416
+16,"acetate (mM)","Citrobacter",439,10.41512449
+16,"acetate (mM)","Enterobacter",283,9.479785617
+16,"acetate (mM)","Serratia",284,6.533905255
+16,"acetate (mM)","Citrobacter",286,9.680839767
+16,"acetate (mM)","Raoultella",287,8.84165723
+16,"acetate (mM)","Enterobacter",440,9.925601337
+16,"acetate (mM)","Enterobacter",442,10.37141707
+16,"acetate (mM)","Enterobacter",160,8.876599248
+16,"acetate (mM)","Raoultella",165,10.03045038
+16,"acetate (mM)","Citrobacter",169,9.215967226
+16,"acetate (mM)","Enterobacter",276,9.523493041
+16,"acetate (mM)","Raoultella",277,9.567200465
+16,"acetate (mM)","Citrobacter",278,10.37141707
+16,"acetate (mM)","Raoultella",288,8.438348263
+16,"acetate (mM)","Citrobacter",289,9.633606276
+16,"acetate (mM)","Klebsiella",295,9.087945009
+16,"acetate (mM)","Enterobacter",303,8.143864405
+16,"acetate (mM)","Klebsiella",305,7.736783778
+16,"acetate (mM)","Enterobacter",308,7.44229992
+16,"acetate (mM)","Klebsiella",310,7.139154772
+16,"acetate (mM)","Klebsiella",311,8.64935958
+16,"acetate (mM)","Klebsiella",317,7.944654736
+16,"acetate (mM)","Enterobacter",320,7.572219269
+16,"acetate (mM)","Klebsiella",322,6.948606393
+16,"acetate (mM)","Klebsiella",448,6.896638653
+28,"acetate (mM)","Enterobacter",327,7.207299012
+28,"acetate (mM)","Enterobacter",332,13.61198142
+28,"acetate (mM)","Enterobacter",338,5.733013628
+28,"acetate (mM)","Raoultella",340,7.642334044
+28,"acetate (mM)","Raoultella",461,6.941444271
+28,"acetate (mM)","Enterobacter",280,8.826596074
+28,"acetate (mM)","Enterobacter",344,12.2585391
+28,"acetate (mM)","Raoultella",345,8.778258848
+28,"acetate (mM)","Escherichia/Shigella",346,14.67540039
+28,"acetate (mM)","Raoultella",348,13.90200478
+28,"acetate (mM)","Serratia",458,10.13170117
+28,"acetate (mM)","Enterobacter",460,13.201115
+28,"acetate (mM)","Raoultella",356,9.019944977
+28,"acetate (mM)","Raoultella",358,7.352310689
+28,"acetate (mM)","Klebsiella",360,6.603083691
+28,"acetate (mM)","Citrobacter",259,17.93816313
+28,"acetate (mM)","Serratia",364,6.651420916
+28,"acetate (mM)","Enterobacter",269,9.672497524
+28,"acetate (mM)","Citrobacter",270,17.35811642
+28,"acetate (mM)","Citrobacter",435,18.95324487
+28,"acetate (mM)","Enterobacter",273,10.44589314
+28,"acetate (mM)","Serratia",438,9.237462493
+28,"acetate (mM)","Citrobacter",439,17.21310474
+28,"acetate (mM)","Enterobacter",283,14.67540039
+28,"acetate (mM)","Serratia",284,6.337228949
+28,"acetate (mM)","Citrobacter",286,14.55455732
+28,"acetate (mM)","Raoultella",287,8.222380752
+28,"acetate (mM)","Enterobacter",440,9.358305557
+28,"acetate (mM)","Enterobacter",442,14.65123178
+28,"acetate (mM)","Enterobacter",160,11.43680627
+28,"acetate (mM)","Raoultella",165,9.769171975
+28,"acetate (mM)","Citrobacter",169,11.24345736
+28,"acetate (mM)","Enterobacter",276,13.61198142
+28,"acetate (mM)","Raoultella",277,11.63015517
+28,"acetate (mM)","Citrobacter",278,15.06209819
+28,"acetate (mM)","Raoultella",288,11.48514349
+28,"acetate (mM)","Citrobacter",289,15.83549381
+28,"acetate (mM)","Klebsiella",295,9.962520877
+28,"acetate (mM)","Enterobacter",303,9.019944977
+28,"acetate (mM)","Klebsiella",305,8.8749333
+28,"acetate (mM)","Enterobacter",308,8.294886591
+28,"acetate (mM)","Klebsiella",310,8.149874914
+28,"acetate (mM)","Klebsiella",311,8.222380752
+28,"acetate (mM)","Klebsiella",317,8.923270525
+28,"acetate (mM)","Enterobacter",320,7.303973464
+28,"acetate (mM)","Klebsiella",322,7.666502657
+28,"acetate (mM)","Klebsiella",448,7.448985141
+48,"acetate (mM)","Enterobacter",327,6.075768773
+48,"acetate (mM)","Enterobacter",332,20.13459201
+48,"acetate (mM)","Enterobacter",338,6.028670537
+48,"acetate (mM)","Raoultella",340,7.276773773
+48,"acetate (mM)","Raoultella",461,6.947086126
+48,"acetate (mM)","Enterobacter",280,8.40713142
+48,"acetate (mM)","Enterobacter",344,14.01182142
+48,"acetate (mM)","Raoultella",345,7.771305244
+48,"acetate (mM)","Escherichia/Shigella",346,26.5164029
+48,"acetate (mM)","Raoultella",348,16.88481378
+48,"acetate (mM)","Serratia",458,8.501327891
+48,"acetate (mM)","Enterobacter",460,13.35244613
+48,"acetate (mM)","Raoultella",356,7.630010538
+48,"acetate (mM)","Raoultella",358,7.700657891
+48,"acetate (mM)","Klebsiella",360,13.82342848
+48,"acetate (mM)","Citrobacter",259,26.21026437
+48,"acetate (mM)","Serratia",364,4.49797789
+48,"acetate (mM)","Enterobacter",269,6.899987891
+48,"acetate (mM)","Citrobacter",270,29.38939525
+48,"acetate (mM)","Citrobacter",435,29.27164966
+48,"acetate (mM)","Enterobacter",273,8.289385832
+48,"acetate (mM)","Serratia",438,0.117842006
+48,"acetate (mM)","Citrobacter",439,28.77711819
+48,"acetate (mM)","Enterobacter",283,22.27756172
+48,"acetate (mM)","Serratia",284,4.309584949
+48,"acetate (mM)","Citrobacter",286,27.08158172
+48,"acetate (mM)","Raoultella",287,6.735144067
+48,"acetate (mM)","Enterobacter",440,7.253224655
+48,"acetate (mM)","Enterobacter",442,21.64173554
+48,"acetate (mM)","Enterobacter",160,21.21785143
+48,"acetate (mM)","Raoultella",165,13.49374084
+48,"acetate (mM)","Citrobacter",169,25.26829966
+48,"acetate (mM)","Enterobacter",276,24.39698231
+48,"acetate (mM)","Raoultella",277,18.29776084
+48,"acetate (mM)","Citrobacter",278,24.9150629
+48,"acetate (mM)","Raoultella",288,9.325547009
+48,"acetate (mM)","Citrobacter",289,23.10178084
+48,"acetate (mM)","Klebsiella",295,8.666171715
+48,"acetate (mM)","Enterobacter",303,10.66784672
+48,"acetate (mM)","Klebsiella",305,9.537489068
+48,"acetate (mM)","Enterobacter",308,10.47945378
+48,"acetate (mM)","Klebsiella",310,6.334809067
+48,"acetate (mM)","Klebsiella",311,6.711594949
+48,"acetate (mM)","Klebsiella",317,6.80579142
+48,"acetate (mM)","Enterobacter",320,6.429005537
+48,"acetate (mM)","Klebsiella",322,6.311259949
+48,"acetate (mM)","Klebsiella",448,5.910924949
+0,"succinate (mM)","Enterobacter",327,0
+0,"succinate (mM)","Enterobacter",332,0
+0,"succinate (mM)","Enterobacter",338,0
+0,"succinate (mM)","Raoultella",340,0
+0,"succinate (mM)","Raoultella",461,0
+0,"succinate (mM)","Enterobacter",280,0
+0,"succinate (mM)","Enterobacter",344,0
+0,"succinate (mM)","Raoultella",345,0
+0,"succinate (mM)","Escherichia/Shigella",346,0
+0,"succinate (mM)","Raoultella",348,0
+0,"succinate (mM)","Serratia",458,0
+0,"succinate (mM)","Enterobacter",460,0
+0,"succinate (mM)","Raoultella",356,0
+0,"succinate (mM)","Raoultella",358,0
+0,"succinate (mM)","Klebsiella",360,0
+0,"succinate (mM)","Citrobacter",259,0
+0,"succinate (mM)","Serratia",364,0
+0,"succinate (mM)","Enterobacter",269,0
+0,"succinate (mM)","Citrobacter",270,0
+0,"succinate (mM)","Citrobacter",435,0
+0,"succinate (mM)","Enterobacter",273,0
+0,"succinate (mM)","Serratia",438,0
+0,"succinate (mM)","Citrobacter",439,0
+0,"succinate (mM)","Enterobacter",283,0
+0,"succinate (mM)","Serratia",284,0
+0,"succinate (mM)","Citrobacter",286,0
+0,"succinate (mM)","Raoultella",287,0
+0,"succinate (mM)","Enterobacter",440,0
+0,"succinate (mM)","Enterobacter",442,0
+0,"succinate (mM)","Enterobacter",160,0
+0,"succinate (mM)","Raoultella",165,0
+0,"succinate (mM)","Citrobacter",169,0
+0,"succinate (mM)","Enterobacter",276,0
+0,"succinate (mM)","Raoultella",277,0
+0,"succinate (mM)","Citrobacter",278,0
+0,"succinate (mM)","Raoultella",288,0
+0,"succinate (mM)","Citrobacter",289,0
+0,"succinate (mM)","Klebsiella",295,0
+0,"succinate (mM)","Enterobacter",303,0
+0,"succinate (mM)","Klebsiella",305,0
+0,"succinate (mM)","Enterobacter",308,0
+0,"succinate (mM)","Klebsiella",310,0
+0,"succinate (mM)","Klebsiella",311,0
+0,"succinate (mM)","Klebsiella",317,0
+0,"succinate (mM)","Enterobacter",320,0
+0,"succinate (mM)","Klebsiella",322,0
+0,"succinate (mM)","Klebsiella",448,0
+16,"succinate (mM)","Enterobacter",327,0.552794855
+16,"succinate (mM)","Enterobacter",332,0.150363407
+16,"succinate (mM)","Enterobacter",338,0.545943249
+16,"succinate (mM)","Raoultella",340,0.282064868
+16,"succinate (mM)","Raoultella",461,0.279925314
+16,"succinate (mM)","Enterobacter",280,0.579938391
+16,"succinate (mM)","Enterobacter",344,0.394034884
+16,"succinate (mM)","Raoultella",345,0.309641348
+16,"succinate (mM)","Escherichia/Shigella",346,0.479379333
+16,"succinate (mM)","Raoultella",348,0.39593671
+16,"succinate (mM)","Serratia",458,0.696662972
+16,"succinate (mM)","Enterobacter",460,0.367171589
+16,"succinate (mM)","Raoultella",356,0.31891275
+16,"succinate (mM)","Raoultella",358,0.240069518
+16,"succinate (mM)","Klebsiella",360,0.242331971
+16,"succinate (mM)","Citrobacter",259,0.46009373
+16,"succinate (mM)","Serratia",364,0.815435085
+16,"succinate (mM)","Enterobacter",269,0.611146587
+16,"succinate (mM)","Citrobacter",270,0.490776341
+16,"succinate (mM)","Citrobacter",435,0.440425389
+16,"succinate (mM)","Enterobacter",273,0.648909801
+16,"succinate (mM)","Serratia",438,0.795242256
+16,"succinate (mM)","Citrobacter",439,0.491300831
+16,"succinate (mM)","Enterobacter",283,0.513853861
+16,"succinate (mM)","Serratia",284,0.809403461
+16,"succinate (mM)","Citrobacter",286,0.377748944
+16,"succinate (mM)","Raoultella",287,0.325824524
+16,"succinate (mM)","Enterobacter",440,0.626881259
+16,"succinate (mM)","Enterobacter",442,0.559222167
+16,"succinate (mM)","Enterobacter",160,0.440749116
+16,"succinate (mM)","Raoultella",165,0.249119331
+16,"succinate (mM)","Citrobacter",169,0.328305192
+16,"succinate (mM)","Enterobacter",276,0.564729302
+16,"succinate (mM)","Raoultella",277,0.303009249
+16,"succinate (mM)","Citrobacter",278,0.432558053
+16,"succinate (mM)","Raoultella",288,0.297633253
+16,"succinate (mM)","Citrobacter",289,0.474843246
+16,"succinate (mM)","Klebsiella",295,0.330892607
+16,"succinate (mM)","Enterobacter",303,0.370907766
+16,"succinate (mM)","Klebsiella",305,0.364931476
+16,"succinate (mM)","Enterobacter",308,0.341545993
+16,"succinate (mM)","Klebsiella",310,0.333750832
+16,"succinate (mM)","Klebsiella",311,0.371687282
+16,"succinate (mM)","Klebsiella",317,0.412741797
+16,"succinate (mM)","Enterobacter",320,0.36623067
+16,"succinate (mM)","Klebsiella",322,0.34414438
+16,"succinate (mM)","Klebsiella",448,0.362592928
+28,"succinate (mM)","Enterobacter",327,0.131856164
+28,"succinate (mM)","Enterobacter",332,0.253062019
+28,"succinate (mM)","Enterobacter",338,0.442769179
+28,"succinate (mM)","Raoultella",340,0.030786087
+28,"succinate (mM)","Raoultella",461,0.052657087
+28,"succinate (mM)","Enterobacter",280,0.532868194
+28,"succinate (mM)","Enterobacter",344,0.452516038
+28,"succinate (mM)","Raoultella",345,0.014858292
+28,"succinate (mM)","Escherichia/Shigella",346,0.546894162
+28,"succinate (mM)","Raoultella",348,0.46606655
+28,"succinate (mM)","Serratia",458,0.659101905
+28,"succinate (mM)","Enterobacter",460,0.447048288
+28,"succinate (mM)","Raoultella",356,0.045762968
+28,"succinate (mM)","Raoultella",358,0
+28,"succinate (mM)","Klebsiella",360,0.03554375
+28,"succinate (mM)","Citrobacter",259,0.440687634
+28,"succinate (mM)","Serratia",364,0.73256581
+28,"succinate (mM)","Enterobacter",269,0.51726304
+28,"succinate (mM)","Citrobacter",270,0.475303913
+28,"succinate (mM)","Citrobacter",435,0.467698822
+28,"succinate (mM)","Enterobacter",273,0.57207215
+28,"succinate (mM)","Serratia",438,0.667004674
+28,"succinate (mM)","Citrobacter",439,0.443047835
+28,"succinate (mM)","Enterobacter",283,0.528277311
+28,"succinate (mM)","Serratia",284,0.762461688
+28,"succinate (mM)","Citrobacter",286,0.415774402
+28,"succinate (mM)","Raoultella",287,0.00693516
+28,"succinate (mM)","Enterobacter",440,0.503626324
+28,"succinate (mM)","Enterobacter",442,0.577054796
+28,"succinate (mM)","Enterobacter",160,0.402966148
+28,"succinate (mM)","Raoultella",165,0.297762074
+28,"succinate (mM)","Citrobacter",169,0.316766681
+28,"succinate (mM)","Enterobacter",276,0.498119189
+28,"succinate (mM)","Raoultella",277,0.302222515
+28,"succinate (mM)","Citrobacter",278,0.411840734
+28,"succinate (mM)","Raoultella",288,0.251122126
+28,"succinate (mM)","Citrobacter",289,0.459252924
+28,"succinate (mM)","Klebsiella",295,0.296593898
+28,"succinate (mM)","Enterobacter",303,0.203051967
+28,"succinate (mM)","Klebsiella",305,0.250862288
+28,"succinate (mM)","Enterobacter",308,0.176288581
+28,"succinate (mM)","Klebsiella",310,0.177847613
+28,"succinate (mM)","Klebsiella",311,0.188501
+28,"succinate (mM)","Klebsiella",317,0.264114061
+28,"succinate (mM)","Enterobacter",320,0
+28,"succinate (mM)","Klebsiella",322,0.264893577
+28,"succinate (mM)","Klebsiella",448,0.263854222
+48,"succinate (mM)","Enterobacter",327,0
+48,"succinate (mM)","Enterobacter",332,0.009152814
+48,"succinate (mM)","Enterobacter",338,0.030548358
+48,"succinate (mM)","Raoultella",340,0.01105464
+48,"succinate (mM)","Raoultella",461,0.012956466
+48,"succinate (mM)","Enterobacter",280,0.013431923
+48,"succinate (mM)","Enterobacter",344,0.03720475
+48,"succinate (mM)","Raoultella",345,0.008915086
+48,"succinate (mM)","Escherichia/Shigella",346,0.431358222
+48,"succinate (mM)","Raoultella",348,0.022227869
+48,"succinate (mM)","Serratia",458,0.013431923
+48,"succinate (mM)","Enterobacter",460,0.138239265
+48,"succinate (mM)","Raoultella",356,0.007964173
+48,"succinate (mM)","Raoultella",358,0
+48,"succinate (mM)","Klebsiella",360,0
+48,"succinate (mM)","Citrobacter",259,0.308516384
+48,"succinate (mM)","Serratia",364,0.002214758
+48,"succinate (mM)","Enterobacter",269,0.06410447
+48,"succinate (mM)","Citrobacter",270,0.432558053
+48,"succinate (mM)","Citrobacter",435,0.344968376
+48,"succinate (mM)","Enterobacter",273,0.268392969
+48,"succinate (mM)","Serratia",438,0.004837204
+48,"succinate (mM)","Citrobacter",439,0.395843817
+48,"succinate (mM)","Enterobacter",283,0.461929442
+48,"succinate (mM)","Serratia",284,0.002214758
+48,"succinate (mM)","Citrobacter",286,0.290946
+48,"succinate (mM)","Raoultella",287,0.007197405
+48,"succinate (mM)","Enterobacter",440,0.201782855
+48,"succinate (mM)","Enterobacter",442,0.571547661
+48,"succinate (mM)","Enterobacter",160,0.32988891
+48,"succinate (mM)","Raoultella",165,0
+48,"succinate (mM)","Citrobacter",169,0.198214134
+48,"succinate (mM)","Enterobacter",276,0.444359057
+48,"succinate (mM)","Raoultella",277,0.308516384
+48,"succinate (mM)","Citrobacter",278,0.291470489
+48,"succinate (mM)","Raoultella",288,0
+48,"succinate (mM)","Citrobacter",289,0.471725181
+48,"succinate (mM)","Klebsiella",295,0.007653266
+48,"succinate (mM)","Enterobacter",303,0.008172943
+48,"succinate (mM)","Klebsiella",305,0.010251653
+48,"succinate (mM)","Enterobacter",308,0
+48,"succinate (mM)","Klebsiella",310,0.001417137
+48,"succinate (mM)","Klebsiella",311,0.020125523
+48,"succinate (mM)","Klebsiella",317,0.034936329
+48,"succinate (mM)","Enterobacter",320,0.009731975
+48,"succinate (mM)","Klebsiella",322,0.008432782
+48,"succinate (mM)","Klebsiella",448,0.019605846
+0,"lactate (mM)","Enterobacter",327,0
+0,"lactate (mM)","Enterobacter",332,0
+0,"lactate (mM)","Enterobacter",338,0
+0,"lactate (mM)","Raoultella",340,0
+0,"lactate (mM)","Raoultella",461,0
+0,"lactate (mM)","Enterobacter",280,0
+0,"lactate (mM)","Enterobacter",344,0
+0,"lactate (mM)","Raoultella",345,0
+0,"lactate (mM)","Escherichia/Shigella",346,0
+0,"lactate (mM)","Raoultella",348,0
+0,"lactate (mM)","Serratia",458,0
+0,"lactate (mM)","Enterobacter",460,0
+0,"lactate (mM)","Raoultella",356,0
+0,"lactate (mM)","Raoultella",358,0
+0,"lactate (mM)","Klebsiella",360,0
+0,"lactate (mM)","Citrobacter",259,0
+0,"lactate (mM)","Serratia",364,0
+0,"lactate (mM)","Enterobacter",269,0
+0,"lactate (mM)","Citrobacter",270,0
+0,"lactate (mM)","Citrobacter",435,0
+0,"lactate (mM)","Enterobacter",273,0
+0,"lactate (mM)","Serratia",438,0
+0,"lactate (mM)","Citrobacter",439,0
+0,"lactate (mM)","Enterobacter",283,0
+0,"lactate (mM)","Serratia",284,0
+0,"lactate (mM)","Citrobacter",286,0
+0,"lactate (mM)","Raoultella",287,0
+0,"lactate (mM)","Enterobacter",440,0
+0,"lactate (mM)","Enterobacter",442,0
+0,"lactate (mM)","Enterobacter",160,0
+0,"lactate (mM)","Raoultella",165,0
+0,"lactate (mM)","Citrobacter",169,0
+0,"lactate (mM)","Enterobacter",276,0
+0,"lactate (mM)","Raoultella",277,0
+0,"lactate (mM)","Citrobacter",278,0
+0,"lactate (mM)","Raoultella",288,0
+0,"lactate (mM)","Citrobacter",289,0
+0,"lactate (mM)","Klebsiella",295,0
+0,"lactate (mM)","Enterobacter",303,0
+0,"lactate (mM)","Klebsiella",305,0
+0,"lactate (mM)","Enterobacter",308,0
+0,"lactate (mM)","Klebsiella",310,0
+0,"lactate (mM)","Klebsiella",311,0
+0,"lactate (mM)","Klebsiella",317,0
+0,"lactate (mM)","Enterobacter",320,0
+0,"lactate (mM)","Klebsiella",322,0
+0,"lactate (mM)","Klebsiella",448,0
+16,"lactate (mM)","Enterobacter",327,0.373094031
+16,"lactate (mM)","Enterobacter",332,3.874438009
+16,"lactate (mM)","Enterobacter",338,0.554857789
+16,"lactate (mM)","Raoultella",340,2.905031297
+16,"lactate (mM)","Raoultella",461,3.000696433
+16,"lactate (mM)","Enterobacter",280,0.765321088
+16,"lactate (mM)","Enterobacter",344,3.986047334
+16,"lactate (mM)","Raoultella",345,3.584253763
+16,"lactate (mM)","Escherichia/Shigella",346,3.115494597
+16,"lactate (mM)","Raoultella",348,4.005180362
+16,"lactate (mM)","Serratia",458,2.484104699
+16,"lactate (mM)","Enterobacter",460,3.485399789
+16,"lactate (mM)","Raoultella",356,3.702240764
+16,"lactate (mM)","Raoultella",358,2.920975487
+16,"lactate (mM)","Klebsiella",360,0.794020629
+16,"lactate (mM)","Citrobacter",259,3.459889086
+16,"lactate (mM)","Serratia",364,2.790233134
+16,"lactate (mM)","Enterobacter",269,0.685600142
+16,"lactate (mM)","Citrobacter",270,4.464373015
+16,"lactate (mM)","Citrobacter",435,4.693969341
+16,"lactate (mM)","Enterobacter",273,0.58355733
+16,"lactate (mM)","Serratia",438,2.863576405
+16,"lactate (mM)","Citrobacter",439,4.359141365
+16,"lactate (mM)","Enterobacter",283,5.303037374
+16,"lactate (mM)","Serratia",284,2.503237726
+16,"lactate (mM)","Citrobacter",286,3.785150549
+16,"lactate (mM)","Raoultella",287,3.003885271
+16,"lactate (mM)","Enterobacter",440,0.551668951
+16,"lactate (mM)","Enterobacter",442,4.636570259
+16,"lactate (mM)","Enterobacter",160,5.290282022
+16,"lactate (mM)","Raoultella",165,4.974587073
+16,"lactate (mM)","Citrobacter",169,3.721373791
+16,"lactate (mM)","Enterobacter",276,5.111707102
+16,"lactate (mM)","Raoultella",277,6.007770542
+16,"lactate (mM)","Citrobacter",278,4.406973933
+16,"lactate (mM)","Raoultella",288,4.566415826
+16,"lactate (mM)","Citrobacter",289,3.896759874
+16,"lactate (mM)","Klebsiella",295,2.595714024
+16,"lactate (mM)","Enterobacter",303,0.940707171
+16,"lactate (mM)","Klebsiella",305,0.953462522
+16,"lactate (mM)","Enterobacter",308,0.580368492
+16,"lactate (mM)","Klebsiella",310,1.568908231
+16,"lactate (mM)","Klebsiella",311,1.693272908
+16,"lactate (mM)","Klebsiella",317,1.154359308
+16,"lactate (mM)","Enterobacter",320,0.8673639
+16,"lactate (mM)","Klebsiella",322,1.457298905
+16,"lactate (mM)","Klebsiella",448,1.457298905
+28,"lactate (mM)","Enterobacter",327,0.374979482
+28,"lactate (mM)","Enterobacter",332,7.641823232
+28,"lactate (mM)","Enterobacter",338,0.488119843
+28,"lactate (mM)","Raoultella",340,4.192658516
+28,"lactate (mM)","Raoultella",461,4.545009925
+28,"lactate (mM)","Enterobacter",280,0.704702819
+28,"lactate (mM)","Enterobacter",344,6.704374527
+28,"lactate (mM)","Raoultella",345,4.564405416
+28,"lactate (mM)","Escherichia/Shigella",346,4.939384898
+28,"lactate (mM)","Raoultella",348,7.50928738
+28,"lactate (mM)","Serratia",458,5.844507785
+28,"lactate (mM)","Enterobacter",460,6.933887831
+28,"lactate (mM)","Raoultella",356,4.334892112
+28,"lactate (mM)","Raoultella",358,4.454497637
+28,"lactate (mM)","Klebsiella",360,1.276869787
+28,"lactate (mM)","Citrobacter",259,4.819779373
+28,"lactate (mM)","Serratia",364,4.373683093
+28,"lactate (mM)","Enterobacter",269,0.219815558
+28,"lactate (mM)","Citrobacter",270,5.880066184
+28,"lactate (mM)","Citrobacter",435,6.924190085
+28,"lactate (mM)","Enterobacter",273,0.14869876
+28,"lactate (mM)","Serratia",438,4.991106205
+28,"lactate (mM)","Citrobacter",439,5.081618494
+28,"lactate (mM)","Enterobacter",283,6.678513873
+28,"lactate (mM)","Serratia",284,3.788585798
+28,"lactate (mM)","Citrobacter",286,6.429605079
+28,"lactate (mM)","Raoultella",287,4.289635968
+28,"lactate (mM)","Enterobacter",440,0.210117813
+28,"lactate (mM)","Enterobacter",442,6.516884786
+28,"lactate (mM)","Enterobacter",160,7.354123457
+28,"lactate (mM)","Raoultella",165,7.842243299
+28,"lactate (mM)","Citrobacter",169,5.776623568
+28,"lactate (mM)","Enterobacter",276,6.180696285
+28,"lactate (mM)","Raoultella",277,7.871336535
+28,"lactate (mM)","Citrobacter",278,5.967345891
+28,"lactate (mM)","Raoultella",288,8.517852883
+28,"lactate (mM)","Citrobacter",289,5.498621538
+28,"lactate (mM)","Klebsiella",295,3.979308121
+28,"lactate (mM)","Enterobacter",303,0.491352424
+28,"lactate (mM)","Klebsiella",305,0.617423112
+28,"lactate (mM)","Enterobacter",308,0.753191545
+28,"lactate (mM)","Klebsiella",310,1.83933901
+28,"lactate (mM)","Klebsiella",311,2.130271366
+28,"lactate (mM)","Klebsiella",317,1.441731456
+28,"lactate (mM)","Enterobacter",320,0.940681286
+28,"lactate (mM)","Klebsiella",322,2.013898424
+28,"lactate (mM)","Klebsiella",448,2.091480385
+48,"lactate (mM)","Enterobacter",327,0
+48,"lactate (mM)","Enterobacter",332,3.760977984
+48,"lactate (mM)","Enterobacter",338,0.006546524
+48,"lactate (mM)","Raoultella",340,2.936115972
+48,"lactate (mM)","Raoultella",461,2.968848591
+48,"lactate (mM)","Enterobacter",280,0
+48,"lactate (mM)","Enterobacter",344,5.181573671
+48,"lactate (mM)","Raoultella",345,2.281463581
+48,"lactate (mM)","Escherichia/Shigella",346,0.382971648
+48,"lactate (mM)","Raoultella",348,6.078447446
+48,"lactate (mM)","Serratia",458,4.96226512
+48,"lactate (mM)","Enterobacter",460,5.741301465
+48,"lactate (mM)","Raoultella",356,2.769179612
+48,"lactate (mM)","Raoultella",358,2.700441111
+48,"lactate (mM)","Klebsiella",360,0.412431006
+48,"lactate (mM)","Citrobacter",259,0.019639572
+48,"lactate (mM)","Serratia",364,3.161971046
+48,"lactate (mM)","Enterobacter",269,0.091651335
+48,"lactate (mM)","Citrobacter",270,0.098197859
+48,"lactate (mM)","Citrobacter",435,0.072011763
+48,"lactate (mM)","Enterobacter",273,0
+48,"lactate (mM)","Serratia",438,4.121036798
+48,"lactate (mM)","Citrobacter",439,0.101471121
+48,"lactate (mM)","Enterobacter",283,1.715189263
+48,"lactate (mM)","Serratia",284,3.089959283
+48,"lactate (mM)","Citrobacter",286,0.533541698
+48,"lactate (mM)","Raoultella",287,2.788819184
+48,"lactate (mM)","Enterobacter",440,0
+48,"lactate (mM)","Enterobacter",442,1.81011386
+48,"lactate (mM)","Enterobacter",160,1.335490877
+48,"lactate (mM)","Raoultella",165,7.204449558
+48,"lactate (mM)","Citrobacter",169,0.445163626
+48,"lactate (mM)","Enterobacter",276,1.112909064
+48,"lactate (mM)","Raoultella",277,3.882088676
+48,"lactate (mM)","Citrobacter",278,0.098197859
+48,"lactate (mM)","Raoultella",288,7.623427088
+48,"lactate (mM)","Citrobacter",289,1.639904238
+48,"lactate (mM)","Klebsiella",295,2.356748606
+48,"lactate (mM)","Enterobacter",303,0
+48,"lactate (mM)","Klebsiella",305,0
+48,"lactate (mM)","Enterobacter",308,0.065465239
+48,"lactate (mM)","Klebsiella",310,0.235674861
+48,"lactate (mM)","Klebsiella",311,0.405884482
+48,"lactate (mM)","Klebsiella",317,0.222581813
+48,"lactate (mM)","Enterobacter",320,0.01636631
+48,"lactate (mM)","Klebsiella",322,0.896873775
+48,"lactate (mM)","Klebsiella",448,0.674291962
