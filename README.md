@@ -1,5 +1,5 @@
 # Estrelaetal2021_FunctionalAttractors
-Data files and R scripts used to generate figures for Estrela et al (2021) Functional attractors in microbial community assembly
+Data files and R scripts used to generate the figures for Estrela et al (2021) Functional attractors in microbial community assembly.
 
 The 16S rRNA sequencing abundance data is available at https://doi.org/10.5061/dryad.5x69p8d3z and can be found in the data/data_main folder.
 
